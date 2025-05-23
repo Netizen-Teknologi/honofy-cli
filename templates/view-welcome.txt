@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Welcome to Honofy</title>
+</head>
+<body>
+  <h1>🎉 Welcome to Honofy!</h1>
+  <p>This is the default view. Start building your app now.</p>
+</body>
+</html>

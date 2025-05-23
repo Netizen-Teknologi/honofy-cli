@@ -1,0 +1,12 @@
+{
+  "name": "honofy-cli",
+  "version": "1.0.0",
+  "description": "CLI generator for Honofy framework",
+  "bin": {
+    "honofy-cli": "./bin/honofy.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}

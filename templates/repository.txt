@@ -1,0 +1,6 @@
+export class {{className}}Repository {
+  async findAll() {
+    // replace with actual db query
+    return []
+  }
+}
